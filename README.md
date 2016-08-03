@@ -3,7 +3,7 @@
 ## Short Description:
 
 Simple NiFi flow to monitor and Alert on a negative state of a YARN Application.
-Article
+
 
 ## Introduction
 - Here is a small demo how NiFi can help you monitor and alert on YARN Application failure.

@@ -74,6 +74,7 @@ Provide “JsonPath Expression” value as  “$.apps.app”  in the configurati
 
 Note: Now you can configure your GetHTTP Processor to query YARN to find long running applications
 
+You can also refer my HCC Article [here](https://community.hortonworks.com/articles/34147/nifi-security-user-authentication-with-kerberos.html)
 Thanks,
 
 Jobin George
